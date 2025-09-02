@@ -1,0 +1,28 @@
+{
+  "name": "routine-ai",
+  "version": "1.0.0",
+  "description": "Voice-activated scheduling and alarm system with push notifications",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "voice-commands",
+    "scheduling",
+    "alarms",
+    "notifications",
+    "AI"
+  ],
+  "author": "RoutineAI",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "date-fns": "^3.0.0"
+  }
+}
+
